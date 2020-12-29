@@ -1,5 +1,7 @@
 # KimAin Profile
 
+[김아인의 디미고라이프 블로그](http://kimain050401.github.io/dlog).
+
 # About Me 🎙
 
 아이디어가 많은 초보개발자 김아인입니다.
