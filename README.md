@@ -1,76 +1,48 @@
-# KimAin’s Profile
+# KimAin Profile
 
-# About Me
+# About Me 🎙
 
 아이디어가 많은 초보개발자 김아인입니다.
 
-# Contact
+ChatBot을 주로 개발하고 있으며, Web 개발, Swift를 통한 iOS App 개발이 가능합니다.
 
-개인정보 남용으로 인하여 발생하는 문제는 [나무위키:개인정보보호법](https://namu.wiki/w/개인정보%20보호법) 문서를 참고하시기 바랍니다.
+세상이 더욱 발전할 수 있도록 최선을 다해 배우며 달려나가고 있습니다!
 
-📱 Mobile : 010-9539-4321
+# Contact 📞
 
-📧 Email : kimain0401@kakao.com
+📱 **Mobile** 010-9539-4321
 
-💬 KakaoTalk : kain41
+📧 **Email** kimain0401@kakao.com
 
-🔨 Discord : KimAin_Coron #0722
+💬 **KakaoTalk** kain41
 
-🔧 Telegram : @corondev_kimain
+🔨 **Discord** KimAin_Coron #0722
 
-# License
+🔧 **Telegram** @corondev_kimain
 
-각 자격의 이름을 누르면 자격의 대표 웹사이트로 연결됩니다.
+# Career 🎓
 
-- [SW코딩자격 2급](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectSwc.do)
-- [한국사능력검정시험 6급](http://www.historyexam.go.kr/)
+- Dropper Lab : Sec 팀 소속 (2020.10.13~)
+- 단양소백산중학교 재학 중 (2018.03.02~)
+- 한국디지털미디어고등학교 해킹방어과 재학 예정 (2020.03.02~)
 
-# Coding Style
+# Experience 🔥
 
-자세한 사항은 [나무위키 : 코딩스타일](https://namu.wiki/w/%EC%BD%94%EB%94%A9%20%EC%8A%A4%ED%83%80%EC%9D%BC) 문서를 참고하시기 바랍니다.
+- 2020 공주대학교 정보보호영재교육원 개인예선전 7위
 
-괄호의 위치 : K&R
+# Skills ⚔️
 
-```c
-int main(){
-	printf("Hello, World!");
-}
-```
+- FB Messenger ChatBot 및 Telegram ChatBot
+- OpenCV를 통한 Video/Image Processing
+- TensorFlow를 통한 Deep Learning
 
-변수/함수의 명칭 : 파스칼 표기법(Pascal Case)
+# Programming Language Skills 🌐
 
-```c
-int NumberOfPolice = 112;
-```
-
-들여쓰기 : 탭(TAB)
-
-```c
-if(num == 1){
-	printf("Hello, World!");
-}
-```
-
-조건/반복문 한줄 코드 사용 : 짧더라도 길게
-
-```c
-for(int i = 0; i < 10; i++){
-	printf("Hello, World!");
-}
-```
-
-# Possible Languages
-
-[70%] C
-
-[20%] Python
-
-[7%] Swift
-
-[3%] NodeJS
-
-# Project Diary
-
-[2020/02/24 - Coron](https://www.notion.so/2020-02-24-Coron-c962842d81e44668919137a89511fd3b)
-
-[2020/05/10 - Visual Sound](https://www.notion.so/2020-05-10-Visual-Sound-692c968e2999452198f428a71b77880c)
+- **Web Programming Language**
+    - HTML [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
+    - JS [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
+    - CSS [ 0% ⚫️⚪️⚪️⚪️⚪️ 100% ]
+- **Programming Language**
+    - C [ 0% ⚫️⚫️⚪️⚪️⚪️ 100% ]
+    - Python [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
+    - Swift [ 0% ⚫️⚫️⚪️⚪️⚪️ 100% ]
