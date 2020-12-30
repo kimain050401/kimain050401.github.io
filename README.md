@@ -40,10 +40,11 @@ ChatBot을 주로 개발하고 있으며, Web 개발, Swift를 통한 iOS App �
 
 ## Programming Language Skills 🌐
 
-- **Web Programming Language**
+- **Web Markup Language**
     - HTML [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
-    - JS [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
     - CSS [ 0% ⚫️⚪️⚪️⚪️⚪️ 100% ]
+- **Web Programming Languge**
+    - JS [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
 - **Programming Language**
     - C [ 0% ⚫️⚫️⚪️⚪️⚪️ 100% ]
     - Python [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
