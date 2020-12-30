@@ -1,6 +1,6 @@
-# KimAin Profile
-
 일기쓰는 블로그도 운영하고 있어요! → [김아인의 디미고라이프](https://kimain050401.github.io/blog)
+
+# KimAin Profile
 
 ## About Me 🎙
 
