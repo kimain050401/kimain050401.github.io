@@ -18,7 +18,7 @@ ChatBot을 주로 개발하고 있으며, Web 개발, Swift를 통한 iOS App �
 
 💬 **KakaoTalk** kain41
 
-🔨 **Discord** KimAin_Coron #0722
+🔨 **Discord** corondev_kimain #0722
 
 🔧 **Telegram** @corondev_kimain
 
