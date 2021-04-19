@@ -17,9 +17,9 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 🔨 **Discord** corondev_kimain #0722
 
 ## Sites 🧭
-- https://findflag.xyz
-- https://covid.findflag.xyz
-- https://dimitimes.github.io
+- [findflag.xyz](https://findflag.xyz)
+- [covid.findflag.xyz](https://covid.findflag.xyz)
+- [dimitimes.github.io](https://dimitimes.github.io)
 
 ## Career 🎓
 
