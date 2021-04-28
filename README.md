@@ -16,7 +16,8 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 
 🔨 **Discord** corondev_kimain #0722
 
-## Sites 🧭
+## Portfolios 🧭
+- [Coron's APP(iOS)](https://apps.apple.com/kr/app/corons-app/id1551447763)
 - [findflag.xyz](https://findflag.xyz)
 - [covid.findflag.xyz](https://covid.findflag.xyz)
 - [dimitimes.github.io](https://dimitimes.github.io)
@@ -26,17 +27,11 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 - 단양소백산중학교 (2018.03.02~2021.01.14)
 - Dropper Lab : Sec 팀 소속 (2020.10.13~2021.04.02)
 - 한국디지털미디어고등학교 해킹방어과 재학 (2021.03.02~)
-- DIN[DIMIGOIN iOS Developer] (2021.04.16~)
+- DIN(디미고인 iOS Developer) (2021.04.16~)
 
 ## Experience 🔥
 
 - 2020 공주대학교 정보보호영재교육원 개인예선전 7위
-
-## Skills ⚔️
-
-- FB Messenger ChatBot 및 Telegram ChatBot
-- OpenCV를 통한 Video/Image Processing
-- TensorFlow를 통한 Deep Learning
 
 ## Programming Language Skills 🌐
 
