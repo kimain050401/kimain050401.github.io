@@ -18,7 +18,7 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 
 ## Portfolios 🧭
 - [Coron's APP(iOS)](https://apps.apple.com/kr/app/corons-app/id1551447763)
-- [살빼(iOS)(Beta)](https://bit.ly/살빼)
+- [살빼(iOS)(Beta)](https://testflight.apple.com/join/7yyfqT5W)
 - [findflag.kr](https://findflag.kr)
 - [covid.findflag.kr](https://covid.findflag.kr)
 - [dimitimes.github.io](https://dimitimes.github.io)
