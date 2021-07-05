@@ -18,16 +18,17 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 
 ## Portfolios 🧭
 - [Coron's APP(iOS)](https://apps.apple.com/kr/app/corons-app/id1551447763)
-- [findflag.xyz](https://findflag.xyz)
-- [covid.findflag.xyz](https://covid.findflag.xyz)
+- [살빼(iOS)(Beta)](https://bit.ly/살빼)
+- [findflag.kr](https://findflag.kr)
+- [covid.findflag.kr](https://covid.findflag.kr)
 - [dimitimes.github.io](https://dimitimes.github.io)
 
 ## Career 🎓
 
 - 단양소백산중학교 (2018.03.02~2021.01.14)
 - Dropper Lab : Sec 팀 소속 (2020.10.13~2021.04.02)
-- 한국디지털미디어고등학교 해킹방어과 재학 (2021.03.02~)
-- DIN(디미고인 iOS Developer) (2021.04.16~)
+- 한국디지털미디어고등학교 20기 해킹방어과 재학 (2021.03.02~)
+- DIMIGOIN(iOS Developer) (2021.04.16~)
 
 ## Experience 🔥
 
@@ -37,10 +38,10 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 
 - **Web Markup Language**
     - HTML [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
-    - CSS [ 0% ⚫️⚪️⚪️⚪️⚪️ 100% ]
+    - CSS [ 0% ⚫️⚫️⚪️⚪️⚪️ 100% ]
 - **Web Programming Languge**
     - JS [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
 - **Programming Language**
     - C [ 0% ⚫️⚫️⚪️⚪️⚪️ 100% ]
     - Python [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
-    - Swift [ 0% ⚫️⚫️⚫️⚪️⚪️ 100% ]
+    - Swift [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
