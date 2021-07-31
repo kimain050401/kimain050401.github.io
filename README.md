@@ -33,12 +33,13 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 ## Experience 🔥
 
 - 2020 공주대학교 정보보호영재교육원 개인예선전 7위
+- 2021 신세계 I&C Hello New( ) World 해커톤 최우수상(디미타임즈 팀)
 
 ## Programming Language Skills 🌐
 
 - **Web Markup Language**
     - HTML [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
-    - CSS [ 0% ⚫️⚫️⚪️⚪️⚪️ 100% ]
+    - CSS [ 0% ⚫️⚫️⚫⚪️⚪️ 100% ]
 - **Web Programming Languge**
     - JS [ 0% ⚫️⚫️⚫️⚫️⚪️ 100% ]
 - **Programming Language**
