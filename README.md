@@ -10,9 +10,9 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 
 ## Contact 📞
 
-📱 **Mobile** 010-9539-4321
+📱 **Mobile** [010-9539-4321](tel:010-9539-4321)
 
-📧 **Email** kimain0401@kakao.com
+📧 **Email** [kimain0401@kakao.com](mailto:kimain0401@kakao.com)
 
 🔨 **Discord** corondev_kimain #0722
 
