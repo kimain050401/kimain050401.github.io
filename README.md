@@ -2,9 +2,9 @@
 
 ## About Me 🎙
 
-아이디어가 많은 초보개발자 김아인입니다.
+반갑습니다 👋
 
-Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
+Swift를 통한 iOS APP을 주로 개발하고 있습니다.
 
 더욱 좋은 세상을 만들기 위해 최선을 다해 배우며 달려나가고 있습니다!
 
@@ -22,6 +22,7 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 - [findflag.kr](https://findflag.kr)
 - [covid.findflag.kr](https://covid.findflag.kr)
 - [dimitimes.github.io](https://dimitimes.github.io)
+- [Yaza.live](https://yaza.live)
 
 ## Career 🎓
 
@@ -33,4 +34,4 @@ Swift를 통한 iOS APP 개발을 주로 개발하고 있습니다.
 ## Experience 🔥
 
 - 2020 공주대학교 정보보호영재교육원 개인예선전 7위
-- 2021 신세계 I&C Hello New( ) World 해커톤 최우수상(디미타임즈 팀)
+- 2021 신세계 I&C Hello New( ) World 해커톤 최우수상 (디미타임즈 팀)
