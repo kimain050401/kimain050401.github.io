@@ -22,7 +22,9 @@ Swift를 통한 iOS APP을 주로 개발하고 있습니다.
 - [findflag.kr](https://findflag.kr)
 - [covid.findflag.kr](https://covid.findflag.kr)
 - [dimitimes.github.io](https://dimitimes.github.io)
-- [디미고미](https://dimigo.me)
+- [디미고미(Web)](https://dimigo.me)
+- [디미고미(iOS)](https://apps.apple.com/kr/app/디미고미/id1598250065)
+
 
 ## Career 🎓
 
