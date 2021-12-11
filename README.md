@@ -1,6 +1,6 @@
-# >> 더 예쁜 제 소개는 [여기(kimain.me)](https://kimain.me)에서 봐주세요! <<
-
 # KimAin Profile
+
+# >> 더 예쁜 제 소개는 [여기(kimain.me)](https://kimain.me)에서 봐주세요! <<
 
 ## About Me 🎙
 
