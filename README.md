@@ -38,5 +38,3 @@ Swift를 통한 iOS APP을 주로 개발하고 있습니다.
 
 - 2020 공주대학교 정보보호영재교육원 CTF 개인예선전 7위
 - 2021 신세계 I&C Hello New( ) World 해커톤 최우수상 (디미타임즈 팀)
-
-![Kimain's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimain050401&show_icons=true&theme=radical)
